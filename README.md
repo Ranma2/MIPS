@@ -4,3 +4,14 @@
 ## Purpose Of this repo
 * This repo is used as a way to document my progress in MIPS 
 * In this repo I will store my academic projects and assignments in MIPS
+
+
+
+
+
+
+
+
+
+### Photos credit
+* Chip picture from Gigazine.net
